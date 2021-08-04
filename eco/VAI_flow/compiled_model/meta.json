@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "eco.xmodel",
+    "kernel": [
+        "subgraph_CNN__CNN_Conv2d_conv1__input_2"
+    ],
+    "target": "DPUCZDX8G_ISA0_B4096_MAX_BG2"
+}
