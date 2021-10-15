@@ -6,4 +6,5 @@
 - run app_roi_save.py to capture frames from webcam, run algorithm and save frames for later postprocessing.
 
 ## eco
-- compile.sh has modifications to be able to get output from intermediate layers.
+- run app.py to start tracker
+- current sequence is airplane
